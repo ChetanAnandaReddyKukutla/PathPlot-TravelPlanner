@@ -62,7 +62,7 @@ export default function GlobePage() {
               <div className="p-6">
                 <h2 className="text-2xl font-semibold mb-4">
                   {" "}
-                  See where you've been...
+                  See where you&apos;ve been...
                 </h2>
 
                 <div className="h-[600px] w-full relative">
@@ -110,7 +110,7 @@ export default function GlobePage() {
                       <div className="bg-blue-50 p-4 rounded-lg">
                         <p className="text-sm text-blue-800">
                           {" "}
-                          You've visited{" "}
+                          You&apos;ve visited{" "}
                           <span className="font-bold">
                             {" "}
                             {visitedCountries.size}
