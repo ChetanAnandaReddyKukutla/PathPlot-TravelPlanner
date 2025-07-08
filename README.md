@@ -1,6 +1,10 @@
 # PathPlot - Travel Planner
 
 A modern travel planning application built with Next.js that helps you plot and organize your travel itineraries with interactive maps and globe visualization.
+<p align="center">
+  <img src="/public/screenshot-for-readme.png" alt="Demo App Screenshot" />
+</p>
+
 
 ## Features
 
